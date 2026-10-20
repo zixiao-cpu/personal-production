@@ -87,7 +87,6 @@
 | C-11 | 批量订单 / 头部验证｜柯力传感 | 上证e互动 | <https://finance.sina.com.cn/stock/relnews/cn/2026-06-01/doc-inhzxmem2262203.shtml> |
 | C-12 | 26H1 出货｜柯力传感 | 2026 半年报 p9（本地 PDF） | <https://stockmc.xueqiu.com/202608/603662_20260828_010I.pdf> |
 | C-21 | 2026 全年出货预期｜柯力传感 | 国金证券研报摘要 | <https://www.ai-gupiao.com/research/summary/32112> |
-| C-22 | 单价 / 产能（传闻）｜柯力传感 | 雪球、股吧 | <https://xueqiu.com/9812945708/351864145> |
 | C-24 | 2025 营收 / 利润｜柯力传感 | 2025 年报（媒体转述） | <https://m.jiemian.com/article/14335991.html> |
 | C-26 | 2025 分业务｜柯力传感 | 华创证券研报摘要 | <https://m.hibor.com.cn/wap_detail.aspx?id=ef8780a0618131fed1cbc6d8f62d007a> |
 | C-30 | 市值 / PE｜柯力传感 | 同花顺 F10 | <https://basic.10jqka.com.cn/603662/> |
@@ -99,7 +98,6 @@
 | C-37 | 机器人力传感器批量｜安培龙 | 2026 半年报（PDF 原文） | <http://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESZ_STOCK/2026/2026-8/2026-08-28/12555790.PDF> |
 | C-38 | 六维力小批量｜安培龙 | 投资者关系活动记录表 20260907（PDF） | <http://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESZ_STOCK/2026/2026-9/2026-09-07/12587659.PDF> |
 | C-39 | 批量订单｜安培龙 | 投资者关系活动记录表 20260930（编号 2026-010） | <http://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESZ_STOCK/2026/2026-9/2026-09-30/12629237.PDF> |
-| C-41 | 产业园（自媒体）｜安培龙 | 东方财富财富号 | <https://caifuhao.eastmoney.com/news/20260531073015186482660> |
 | C-42 | 2025 营收 / 利润｜安培龙 | 2025 年报（转述） | <https://disc.static.szse.cn/disc/disk03/finalpage/2026-04-24/ff11e4e4-722d-45d3-a65d-665e0e72b301.PDF> |
 | C-45 | 市值 / PE｜安培龙 | 同花顺 F10 | <https://basic.10jqka.com.cn/301413/> |
 | C-46 | 小批量试制｜东华测试 | 互动易 | <https://finance.sina.com.cn/stock/relnews/cn/2025-01-14/doc-ineexcef8919783.shtml> |
@@ -112,18 +110,15 @@
 | C-56 | 触觉小批量｜汉威科技 | 2026 半年报 PDF | <http://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESZ_STOCK/2026/2026-8/2026-08-29/12567219.PDF> |
 | C-58 | 柔性传感器出货｜汉威科技 | 投资者关系活动信息 20260804（PDF） | <http://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESZ_STOCK/2026/2026-8/2026-08-04/12478062.PDF> |
 | C-59 | 新品｜汉威科技 | 媒体 | <https://www.ithome.com/0/993/250.htm> |
-| C-60 | 客户（传闻）｜汉威科技 | 雪球、财富号 | <https://xueqiu.com/4587179884/344760164> |
 | C-61 | 2025 财务｜汉威科技 | 2025 年报（转述） | <https://jnzstatic.cs.com.cn/zzb/htmlInfo/119985.html> |
 | C-64 | H 股｜汉威科技 | 公司公告（标题推断） | <http://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=300007&id=12634586> |
 | C-65 | 市值 / PE｜汉威科技 | 同花顺 F10 | <https://basic.10jqka.com.cn/300007/> |
 | C-66 | 六维力批量（按摩）｜昊志机电（300503.SZ） | 互动易（媒体转述） | <https://cloud.tencent.com.cn/developer/news/1255855> |
 | C-67 | 人形送样｜昊志机电 | 机构调研（媒体转述） | <https://www.huxiu.com/moment/1218359.html> |
-| C-68 | 客户（传闻）｜昊志机电 | 韭研公社帖子 | <https://www.jiuyangongshe.com/search/new?k=300503> |
 | C-69 | 送样 / 验证｜中航电测（300114.SZ） | 互动易 | <https://www.stcn.com/article/detail/1456767.html> |
 | C-70 | 产品｜中航电测 | 互动易（媒体转述） | <https://m.163.com/dy/article/JJM8TFLR0512B07B.html> |
 | C-71 | 进口单价｜ATI（进口对照） | 行业文章（据 e-motion supply、爱采购报价） | <https://news.qq.com/rain/a/20240121A01D6400> |
 | C-73 | 宇树｜柯力传感 | 上证e互动 | <https://m.nbd.com.cn/articles/2025-01-20/3729543.html> |
-| C-75 | 智元 / 华为 / 字节｜柯力传感 | 知乎、机器人网站 | <https://zhuanlan.zhihu.com/p/1956420905501697965> |
 | C-80 | 优必选 / 智元 / 星海图｜坤维科技（未上市） | MIR 白皮书相关报道 | <http://www.rmzxw.com.cn/c/2026-04-28/3908097.shtml> |
 | C-81 | 上市状态｜蓝点触控 | 机器人大讲堂（创始人访谈） | <https://www.leaderobot.com/news/6716> |
 | C-82 | 融资｜蓝点触控 | 证券日报（新浪转载） | <https://finance.sina.com.cn/jjxw/2026-08-17/doc-ininrean0160285.shtml> |
@@ -135,9 +130,7 @@
 | D-07 | 智元 远征 A2（双足交互服务版） | 智元官网（搜索摘要） | <https://www.agibot.com/product/169/detail/4.html> |
 | D-08 | 宇树 H1 / H2 / G1 | 宇树官网、百度百科、经销商页面 | <https://www.unitree.com/cn/h1/> |
 | D-08 | 宇树 H1 / H2 / G1 | 宇树官网、百度百科、经销商页面 | <https://yfrobotics.github.io/robowiki-cn/database/unitree-h1/> |
-| D-09 | 宇树供应链（自媒体） | 今日头条自媒体 | <https://www.toutiao.com/article/7671818784537149996> |
 | D-10 | 银河通用 Galbot G1（轮式双臂） | 银河通用官方开发者文档 G1 v2.2.4 | <http://developer.galbot.com/docs/g1/2.2.4/zh/g1/> |
-| D-11 | 小鹏 IRON | 艾邦机器人、知乎 | <https://www.aibangbots.com/a/5122> |
 | D-12 | 傅利叶 GR-1 / GR-2 | 华宝表6；傅利叶发布会报道 | <https://news.qq.com/rain/a/20240926A02VVS00> |
 | D-13 | 傅利叶自研人形专用六维力 | 傅利叶（机器人新闻网报道） | <https://www.robotnews.com.cn/info/2026/01091402026.html> |
 | D-14 | 乐聚 夸父（KUAVO） | IT之家 / 乐聚发布会 | <https://www.ithome.com/0/737/085.htm> |
@@ -146,14 +139,12 @@
 | D-18 | 行业口径：配置机型的用量 | 北京赛迪出版传媒 × 中国电子报《2026年中国人形机器人六维力传感器市场调研报告》 | <https://mp.ofweek.com/ai/a756714156647> |
 | D-19 | 行业口径：中金 | 中金《人形机器人传感器：高价值量、高壁垒的感知环节》 | <https://m.sohu.com/a/907613987_122014422/> |
 | D-20 | 行业口径：厂商 | 财联社 / 科创板日报（厂商受访） | <https://m.cls.cn/detail/2131477> |
-| D-21 | 远期用量上修（解读稿） | 中华网对赛迪报告的解读 | <https://mtz.china.com/touzi/2026/0831/263958.html> |
 | D-37 | 电流环的局限 | 券商专题（搜狐转载） | <https://www.sohu.com/a/846634643_121880839> |
 | D-47 | 2025 年人形专用单价（GGII） | GGII《2025中国人形机器人六维力传感器市场分析报告》 | <https://blog.csdn.net/tingyun2015/article/details/155314932> |
 | D-50 | 2025–2026 国产与外资对比 | 赛迪 × 中国电子报 | <https://www.robotsj.cn/jishuganhuo/2382.html> |
 | D-51 | 国产量产成本 | 投资界（蓝点 IROS 报道）；傅利叶 | <https://news.pedaily.cn/202609/569686.shtml> |
 | D-60 | GGII 2025 年中国人形六维力 | 高工机器人产业研究所（GGII）《2025中国人形机器人六维力传感器市场分析报告》 | <https://news.qq.com/rain/a/20251127A04V5E00> |
 | D-63 | 赛迪 2025 年中国人形六维力 | 北京赛迪出版传媒有限公司 × 《中国电子报》《2026年中国人形机器人六维力传感器市场调研报告》 | <https://news.pedaily.cn/202608/568352.shtml> |
-| D-72 | QYResearch（对照） | QYResearch（营销稿；国信引用） | <https://m.gelonghui.com/p/1928250> |
 | D-74 | 2025 年中国出货（GGII） | GGII | <https://www.sohu.com/a/972343345_115831> |
 | D-76 | 2025 年中国对外销售（摩根士丹利） | 摩根士丹利 | <https://cryptobriefing.com/morgan-stanley-china-humanoid-robot-forecast/> |
 | D-77 | 2025 年中国产量（MIR） | MIR 睿工业 | <https://www.eefocus.com/article/1981263.html> |
@@ -164,10 +155,8 @@
 | R-03 | 优必选整体方案价 | 优必选副总裁焦继超 | <https://finance.sina.com.cn/jjxw/2026-09-22/doc-inisspzi5669682.shtml> |
 | R-05 | 车企侧入厂成本 | 东风柳汽相关负责人（经观） | <https://www.huxiu.com/article/4882514.html> |
 | R-07 | 进厂总拥有成本 | 钛媒体 | <https://finance.sina.cn/stock/jdts/2026-06-05/detail-iniaikax1839321.d.html> |
-| R-09 | 工业人形售价区间 | 行业测算（什么值得买） | <https://post.smzdm.com/p/ad7mz8zp/> |
 | R-10 | 宇树 H2 售价 | 宇树科创板问询回复 | <https://static.sse.com.cn/stock/disclosure/announcement/c/202603/002178_20260320_OE27.pdf> |
 | R-11 | 智元远征 A2 售价 | 智元官网、上观 | <https://finance.sina.com.cn/tech/roll/2025-08-18/doc-infmmmiy1961486.shtml> |
-| R-12 | 智元精灵 G2 售价 | 自媒体推测 | <https://www.youshouldautomatethat.tech/zh/catalog/agibot-g2/> |
 | R-13 | 银河通用 Galbot G1 售价 | 媒体（东方财富） | <https://finance.eastmoney.com/a/202602173651264736.html> |
 | R-14 | 乐聚夸父售价 | 乐聚（媒体） | <https://www.21jingji.com/article/20231211/herald/f36b72720e8b610c54593d094ba6c156.html> |
 | R-15 | 宇树均价 | 宇树招股书（中银转引） | <https://pdf.dfcfw.com/pdf/H3_AP202608081827784429_1.pdf> |
@@ -196,16 +185,14 @@
 | R-54 | 城镇非私营单位平均工资 | 国家统计局 | <https://www.stats.gov.cn/sj/zxfb/202605/t20260515_1963707.html> |
 | R-57 | 规上企业生产制造人员工资 | 国家统计局 | <https://www.stats.gov.cn/zs/tjwh/tjkw/tjqk/zgxxb/202605/P020260519307748967261.pdf> |
 | R-61 | 企业社保公积金负担 | 政策汇总 | <https://www.chinaacc.com/kuaijishiwu/krky/zh20250228112717.shtml> |
-| R-62 | 实缴情况 | 浙江民企负责人 | <http://www.chinareform.net/plus/view.php?aid=4118> |
 | R-63 | 汽车厂班次与年工时 | 太平洋汽车（JPH公式） | <https://www.pcauto.com.cn/jxwd/4478/44785417.html> |
 | R-64 | 焊装线规划工作制 | 行业技术文章 | <https://auto.jgvogel.cn/c/2019-10-23/583437.shtml> |
 | R-65 | 零部件厂工作制 | 环评文件 | <https://www.fuzhou.gov.cn/zgfzzt/shbj/xxgk/spgs/202509/P020250922529630533862.pdf> |
 | R-70 | 伯恩斯坦（中国） | 伯恩斯坦（机器人大讲堂转述） | <https://www.leaderobot.com/news/9401> |
-| R-74 | 两班制模型 | 知乎作者 | <https://zhuanlan.zhihu.com/p/81664206693> |
 | B-03 | 灵巧手隐含均价｜灵巧手（行业） | 前瞻网（引赛迪）；GGII（腾讯新闻转引） | <https://www.qianzhan.com/analyst/detail/220/260429-ecbc14e6.html> |
 | B-03 | 灵巧手隐含均价｜灵巧手（行业） | 前瞻网（引赛迪）；GGII（腾讯新闻转引） | <https://news.qq.com/rain/a/20260916A092IN00> |
 
-（共 126 条网页链接。F 系列市值与财务数据取自 iFinD 行情接口，已按收盘价 × 总股本复核，无公开网页链接；半年报页码见底稿。）
+（共 113 条网页链接，已剔除性质为“传闻”或可信度为“低”的线索。F 系列市值与财务数据取自 iFinD 行情接口，已按收盘价 × 总股本复核，无公开网页链接；半年报页码见底稿。）
 
 ## 三、尚未取得原文的资料
 
